@@ -1,6 +1,13 @@
 ﻿<Properties StartupConfiguration="{E6088D02-B6FE-4866-915B-2BA8C271D2BC}|Default">
   <MonoDevelop.Ide.ItemProperties.MyWebApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyWebApp/Pages/Contact.cshtml">
+    <Files>
+      <File FileName="MyWebApp/Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="MyWebApp/Pages/Index.cshtml" Line="17" Column="1" />
+      <File FileName="MyWebApp/Pages/Contact.cshtml.cs" Line="10" Column="6" />
+      <File FileName="MyWebApp/Pages/Contact.cshtml" Line="10" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
