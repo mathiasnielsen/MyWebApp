@@ -8,4 +8,11 @@
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Usefull templates\" />
+    <Folder Include="Usefull templates\Pages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Usefull templates\_ValidationScriptsPartial.cshtml" />
+  </ItemGroup>
 </Project>

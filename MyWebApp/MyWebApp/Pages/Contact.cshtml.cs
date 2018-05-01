@@ -12,7 +12,7 @@ namespace MyWebApp.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Here you got me.";
         }
     }
 }

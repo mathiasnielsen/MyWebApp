@@ -4,15 +4,15 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace MyWebApp.Pages
+namespace Usefull.MyWebApp.Pages
 {
-    public class AboutModel : PageModel
+    public class ContactModel : PageModel
     {
         public string Message { get; set; }
 
         public void OnGet()
         {
-            Message = "This is all about me.";
+            Message = "Here you got me.";
         }
     }
 }
