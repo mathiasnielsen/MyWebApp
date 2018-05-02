@@ -1,0 +1,10 @@
+c:\Users\jsousa\documents\visual studio 2015\Services\bin\Debug\Services.dll
+c:\Users\jsousa\documents\visual studio 2015\Services\bin\Debug\Services.pdb
+c:\Users\jsousa\documents\visual studio 2015\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+c:\Users\jsousa\documents\visual studio 2015\Services\obj\Debug\Services.dll
+c:\Users\jsousa\documents\visual studio 2015\Services\obj\Debug\Services.pdb
+C:\Users\jsousa\Documents\Visual Studio 2015\Projects\Services\bin\Debug\Services.dll
+C:\Users\jsousa\Documents\Visual Studio 2015\Projects\Services\bin\Debug\Services.pdb
+C:\Users\jsousa\Documents\Visual Studio 2015\Projects\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\jsousa\Documents\Visual Studio 2015\Projects\Services\obj\Debug\Services.dll
+C:\Users\jsousa\Documents\Visual Studio 2015\Projects\Services\obj\Debug\Services.pdb
