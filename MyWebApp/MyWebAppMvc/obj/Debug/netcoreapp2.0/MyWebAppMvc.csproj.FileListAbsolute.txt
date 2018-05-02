@@ -1,0 +1,11 @@
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/bin/Debug/netcoreapp2.0/MyWebAppMvc.deps.json
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/bin/Debug/netcoreapp2.0/MyWebAppMvc.runtimeconfig.json
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/bin/Debug/netcoreapp2.0/MyWebAppMvc.runtimeconfig.dev.json
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/bin/Debug/netcoreapp2.0/MyWebAppMvc.dll
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/bin/Debug/netcoreapp2.0/MyWebAppMvc.pdb
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/obj/Debug/netcoreapp2.0/MyWebAppMvc.csprojResolveAssemblyReference.cache
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/obj/Debug/netcoreapp2.0/MyWebAppMvc.csproj.CoreCompileInputs.cache
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/obj/Debug/netcoreapp2.0/MyWebAppMvc.AssemblyInfoInputs.cache
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/obj/Debug/netcoreapp2.0/MyWebAppMvc.AssemblyInfo.cs
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/obj/Debug/netcoreapp2.0/MyWebAppMvc.dll
+/Users/Kirkegaard/Projects/PlaygroundASPWebApp/MyWebApp/MyWebAppMvc/obj/Debug/netcoreapp2.0/MyWebAppMvc.pdb

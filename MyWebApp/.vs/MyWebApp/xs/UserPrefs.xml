@@ -1,11 +1,13 @@
-﻿<Properties StartupConfiguration="{E6088D02-B6FE-4866-915B-2BA8C271D2BC}|Default">
+﻿<Properties StartupConfiguration="{8D9082ED-1ED6-46F2-8F1F-609BB4A4ACDC}|Default">
   <MonoDevelop.Ide.ItemProperties.MyWebApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyWebApp/Pages/Contact.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyWebAppMvc/Models/Car.cs">
     <Files>
-      <File FileName="MyWebApp/Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="MyWebApp/Pages/Index.cshtml.cs" Line="11" Column="6" />
       <File FileName="MyWebApp/Pages/Index.cshtml" Line="17" Column="1" />
       <File FileName="MyWebApp/Pages/Contact.cshtml.cs" Line="10" Column="6" />
-      <File FileName="MyWebApp/Pages/Contact.cshtml" Line="10" Column="28" />
+      <File FileName="MyWebApp/Pages/Contact.cshtml" Line="5" Column="2" />
+      <File FileName="MyWebAppMvc/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="MyWebAppMvc/Models/Car.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -13,5 +15,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyWebAppMvc PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
